@@ -1,0 +1,36 @@
+{
+  "name": "keto-tracker",
+  "version": "1.0.0",
+  "description": "A web app that will allow me to track my progress on the ketogenic diet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=development mocha --compilers js:babel-core/register --require ignore-styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dillongc21/Keto-Tracker.github.io.git"
+  },
+  "author": "Dillon Christensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dillongc21/Keto-Tracker.github.io/issues"
+  },
+  "homepage": "https://github.com/Dillongc21/Keto-Tracker.github.io#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "chai": "^4.1.1",
+    "chai-enzyme": "^0.8.0",
+    "cheerio": "^1.0.0-rc.1",
+    "enzyme": "^2.9.1",
+    "ignore-styles": "^5.0.1",
+    "mocha": "^3.5.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.5.5"
+  }
+}
