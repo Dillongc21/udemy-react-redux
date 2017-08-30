@@ -1,3 +1,3 @@
 # Keto Tracker
 
-A web app that will allow me to track my progress on the ketogenic diet.
+A web app that will allow the user to track his/her progress on the ketogenic diet.
