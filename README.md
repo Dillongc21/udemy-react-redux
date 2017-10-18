@@ -1,3 +1,3 @@
-# Keto Tracker
+# React Starter
 
-A web app that will allow the user to track his/her progress on the ketogenic diet.
+A starter repo in React.js

@@ -4,6 +4,8 @@
   "description": "A web app that will allow me to track my progress on the ketogenic diet.",
   "main": "index.js",
   "scripts": {
+    "dev": "export NODE_ENV=development && webpack --watch --progress",
+    "start": "export NODE_ENV=development && webpack-dev-server --port 3001 --progress",
     "test": "NODE_ENV=development mocha --compilers js:babel-core/register --require ignore-styles"
   },
   "repository": {
