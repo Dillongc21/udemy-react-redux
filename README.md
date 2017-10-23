@@ -1,3 +1,3 @@
-# React Starter
+# Udemy- Modern React with Redux
 
-A starter repo in React.js
+Udemy tutorials on React with Redux
