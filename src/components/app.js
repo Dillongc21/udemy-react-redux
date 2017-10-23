@@ -1,10 +1,8 @@
-import React from 'react';
-import {render} from 'react-dom';
-
-class App extends React.Component {
-  render () {
-    return <p> Hello React!</p>;
-  }
+// Create a new component. This component should produce
+// some HTML
+const App = function() {
+  return <div>Hi!</div>;
 }
 
-render(<App/>, document.getElementById('app'));
+// Take this component's generated HTML, and put it
+// on the page (in the DOM)
