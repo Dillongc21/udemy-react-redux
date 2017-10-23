@@ -16,7 +16,7 @@ if (process.env.NODE_ENV === 'development' || process.env.BUILD_OUTPUT === 'deve
 
 const config = {
   devtool: devtool,
-  entry: './src/components/root/index.js',
+  entry: './src/components/app.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: filename
