@@ -30,6 +30,8 @@
     "chai-jquery": "^2.0.0",
     "cheerio": "^1.0.0-rc.1",
     "enzyme": "^2.9.1",
+    "eslint": "^4.9.0",
+    "eslint-plugin-react": "^7.4.0",
     "ignore-styles": "^5.0.1",
     "jquery": "^3.2.1",
     "jsdom": "^11.3.0",
